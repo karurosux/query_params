@@ -1,8 +1,11 @@
 name: query_params
 description: A flutter query params builder.
-version: 0.5.0
+version: 0.6.0
 author: Carlos Gonzalez  justdevelopitmx@gmail.com
-homepage: 
+homepage:
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
 
 dependencies:
   flutter:
