@@ -7,7 +7,7 @@ A flutter package to create URL query parameters.
 Add this to your package's `pubspec.yaml` file:
 
 ```yaml
-query_params: "^0.5.0"
+query_params: '^0.6.1'
 ```
 
 ## Install packages:
